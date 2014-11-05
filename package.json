@@ -1,0 +1,20 @@
+{
+  "name": "restificant",
+  "version": "0.0.1",
+  "description": "rest server module",
+  "main": "rest-server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rest",
+    "server",
+    "made",
+    "easy"
+  ],
+  "author": "moritzbo",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "package.json": "0.0.0"
+  }
+}
