@@ -1,6 +1,6 @@
 {
   "name": "restificant",
-  "version": "0.0.23",
+  "version": "0.0.24",
   "description": "rest server module",
   "main": "rest-server.js",
   "scripts": {
