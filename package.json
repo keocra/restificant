@@ -1,6 +1,6 @@
 {
   "name": "restificant",
-  "version": "0.0.1",
+  "version": "0.0.23",
   "description": "rest server module",
   "main": "rest-server.js",
   "scripts": {
@@ -17,8 +17,5 @@
     "url" : "https://github.com/keocra/restificant"
   },
   "author": "keocra",
-  "license": "MIT License",
-  "dependencies": {
-    "package.json": "0.0.1"
-  }
+  "license": "MIT"
 }
