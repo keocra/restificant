@@ -12,9 +12,13 @@
     "made",
     "easy"
   ],
-  "author": "moritzbo",
-  "license": "BSD-2-Clause",
+  "repository" : { 
+    "type" : "git",
+    "url" : "https://github.com/keocra/restificant"
+  },
+  "author": "keocra",
+  "license": "MIT License",
   "dependencies": {
-    "package.json": "0.0.0"
+    "package.json": "0.0.1"
   }
 }
